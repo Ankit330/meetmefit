@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189212497999",
+    "project_id": "meetmefit-f278b",
+    "storage_bucket": "meetmefit-f278b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189212497999:android:fc0a5398bd0f40795df23a",
+        "android_client_info": {
+          "package_name": "com.example.meetmefit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189212497999-g9ash8rinc48jgegscm2vjv8mm457rlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7B3F_d9zqXr00gaAwmwaAOBRnycwMLfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189212497999-g9ash8rinc48jgegscm2vjv8mm457rlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
